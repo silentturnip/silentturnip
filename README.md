@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/silentturnip/silentturnip/blob/main/assets/Header.jpg)](https://www.linkedin.com/in/mpushilina/)
 
 About me
 

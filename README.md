@@ -4,6 +4,9 @@
 
 Latest Test Documentation
 
-Languages and Tools
+## Languages and Tools
+![mySQL](https://img.shields.io/badge/-mySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=FFFFFF)
+![JUnit](https://img.shields.io/badge/-JUnit-000000?style=for-the-badge&logo=junit5&logoColor=FFFFFF)
 
 Follow Me

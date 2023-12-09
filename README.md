@@ -1,18 +1,17 @@
 [![Header](https://github.com/silentturnip/silentturnip/blob/main/assets/Header.jpg)](https://www.linkedin.com/in/mpushilina/)
 
 ## I'm a Software Engeneer
-
 ## My CV
 [Link to My CV](https://drive.google.com/file/d/1iIC4sg_o-OTSewWe1O8y3xWDPqWvrujE/view?usp=sharing)
 
 ## Testing Documentation
 <!-- TEST-DOCUMENTATION-LIST: START -->
--[Checklists]()
--[Test-Suites and Test-Cases]()
--[Bug-Reports]()
--[SQL Queries]()
--[Postman Collections]()
--[Junit Tests]()
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collections]()
+- [Junit Tests]()
 <!-- TEST-DOCUMENTATION-LIST: END -->
 
 ## Languages and Tools

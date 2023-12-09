@@ -2,7 +2,9 @@
 
 ## I'm a Software Engeneer
 
-Latest Test Documentation
+## Latest Test Documentation
+<!-- BLOG-POST-LIST: START -->
+<!-- BLOG-POST-LIST: END -->
 
 ## Languages and Tools
 ![mySQL](https://img.shields.io/badge/-mySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
@@ -11,4 +13,6 @@ Latest Test Documentation
 
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/mpushilina/)
+
+[![Anurag's github ststs](https://github-readme-stats.vercel.app/api?username=silentturnip&show_icons=true)](https://github.com/silentturnip/github-readme-stats)
 

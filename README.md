@@ -2,6 +2,9 @@
 
 ## I'm a Software Engeneer
 
+## My CV
+![Link to My CV](https://drive.google.com/file/d/1iIC4sg_o-OTSewWe1O8y3xWDPqWvrujE/view?usp=sharing)
+
 ## Test Documentation
 <!-- TEST-DOCUMENTATION-LIST: START -->
 <!-- TEST-DOCUMENTATION-LIST: END -->

@@ -2,7 +2,7 @@
 
 ## I'm a Software Engeneer
 
-## Latest Test Documentation
+## Test Documentation
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
 
@@ -14,5 +14,6 @@
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/mpushilina/)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silentturnip&exclude_repo=github-readme-stats,createPDF,wiki)
+<!-- https://github.com/anuraghazra/github-readme-stats 
+https://github.com/gautamkrishnar/blog-post-workflow -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silentturnip&layout=compact)](https://github.com/silentturnip/github-readme-stats)

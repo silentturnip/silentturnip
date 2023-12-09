@@ -14,5 +14,5 @@
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/mpushilina/)
 
-[![Anurag's github ststs](https://github-readme-stats.vercel.app/api?username=silentturnip&show_icons=true)](https://github.com/silentturnip/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silentturnip&exclude_repo=github-readme-stats,createPDF,wiki)

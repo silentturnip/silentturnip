@@ -1,6 +1,7 @@
 [![Header](https://github.com/silentturnip/silentturnip/blob/main/assets/Header.jpg)](https://www.linkedin.com/in/mpushilina/)
 
-## I'm a Software Engeneer
+## I'm a Quality Assurance Engineer.
+
 ## My CV
 [Link to My CV](https://drive.google.com/file/d/1x5IhL7UReTuXeFWFiBn9KiKW_qgVBF6O/view?usp=sharing)
 
@@ -24,9 +25,8 @@
 
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/mpushilina/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.linkedin.com/in/mpushilina/)
-[![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.linkedin.com/in/mpushilina/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/silent_turnip/)
 
 <!-- https://github.com/anuraghazra/github-readme-stats 
 https://github.com/gautamkrishnar/blog-post-workflow -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silentturnip&layout=compact)](https://github.com/silentturnip/github-readme-stats)
+

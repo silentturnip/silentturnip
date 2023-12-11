@@ -11,7 +11,7 @@
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
-- [Postman Collections]()
+- [Postman Collections](https://www.postman.com/winter-trinity-613226/workspace/dummyapi/collection/26617097-479d78d5-cf5b-436c-a0a0-31d59ba86bd2?action=share&creator=26617097&active-environment=26617097-8583aa7b-943c-4c10-8fec-611da4cd7560)
 - [Junit Tests]()
 <!-- TEST-DOCUMENTATION-LIST: END -->
 

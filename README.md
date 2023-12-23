@@ -17,6 +17,7 @@
 
 
 ## Test Documentation
+![TestRail](https://img.shields.io/badge/-TestRail-000000?style=for-the-badge&logo=testrail&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=FFFFFF)
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=for-the-badge&logo=trello&logoColor=FFFFFF)
 ![Miro](https://img.shields.io/badge/-Miro-000000?style=for-the-badge&logo=miro&logoColor=FFFFFF)

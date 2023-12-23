@@ -3,7 +3,7 @@
 ## I'm a Quality Assurance Engineer.
 
 ## My CV
-[Link to My CV](https://drive.google.com/file/d/1x5IhL7UReTuXeFWFiBn9KiKW_qgVBF6O/view?usp=sharing)
+[Link to My CV](https://docs.google.com/document/d/1hDAghvdFypMDwA2DYDz65Ng5cE7kh6-E/edit?usp=sharing&ouid=117564705335758208944&rtpof=true&sd=true)
 
 ## Testing Documentation
 <!-- TEST-DOCUMENTATION-LIST: START -->

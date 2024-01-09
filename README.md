@@ -8,6 +8,7 @@
 ## Testing Documentation
 <!-- TEST-DOCUMENTATION-LIST: START -->
 - [Postman Collections](https://www.postman.com/winter-trinity-613226/workspace/dummyapi/collection/26617097-479d78d5-cf5b-436c-a0a0-31d59ba86bd2?action=share&creator=26617097&active-environment=26617097-8583aa7b-943c-4c10-8fec-611da4cd7560)
+- [User Stories](https://docs.google.com/spreadsheets/d/14zSrIFMtXi3EgAWp338qs1dkeBQph76uaenvNz2gaL4/edit#gid=0)
 - [Checklists]()
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
